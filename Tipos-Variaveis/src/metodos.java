@@ -5,5 +5,5 @@ public class metodos {
       //qual o tipo de retorno esperado de cada metodo
       //as vezes precisa-se de parametro nos metodos
       //possui exceção ?  
-   
+      //nome do metodo no infinitivo, ler, gravar, enviar, somar.
 }
